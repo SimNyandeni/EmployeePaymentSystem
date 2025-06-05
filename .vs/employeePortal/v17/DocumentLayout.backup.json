@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\APDS2025\\employeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A981C-31C2-0072-F883-FBD9B6EEE6BD}|employeePortal\\employeeportal.esproj|c:\\apds2025\\employeeportal\\employeeportal\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C1A981C-31C2-0072-F883-FBD9B6EEE6BD}|employeePortal\\employeeportal.esproj|solutionrelative:employeeportal\\src\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1A981C-31C2-0072-F883-FBD9B6EEE6BD}|employeePortal\\employeeportal.esproj|c:\\apds2025\\employeeportal\\employeeportal\\src\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C1A981C-31C2-0072-F883-FBD9B6EEE6BD}|employeePortal\\employeeportal.esproj|solutionrelative:employeeportal\\src\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\APDS2025\\employeePortal\\employeeportal\\src\\Login.jsx",
+              "RelativeDocumentMoniker": "employeeportal\\src\\Login.jsx",
+              "ToolTip": "C:\\APDS2025\\employeePortal\\employeeportal\\src\\Login.jsx",
+              "RelativeToolTip": "employeeportal\\src\\Login.jsx",
+              "ViewState": "AgIAABMAAAAAAAAAAABgPSYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-04T20:35:22.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.jsx",
+              "DocumentMoniker": "C:\\APDS2025\\employeePortal\\employeeportal\\src\\dashboard.jsx",
+              "RelativeDocumentMoniker": "employeeportal\\src\\dashboard.jsx",
+              "ToolTip": "C:\\APDS2025\\employeePortal\\employeeportal\\src\\dashboard.jsx",
+              "RelativeToolTip": "employeeportal\\src\\dashboard.jsx",
+              "ViewState": "AgIAAB8AAACALzMzM7MSwDUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-04T20:34:35.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
